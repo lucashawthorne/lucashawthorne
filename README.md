@@ -6,7 +6,7 @@ Frontend Developer
 
 Motivated front-end developer with hands-on experience building responsive web applications using HTML, CSS, JavaScript, and React. I came from a retail and sales background, but I'm excited to cement myself in tech. 😎
 
-* 🌍  I'm based in Phoenix, Arizona, but I'm open to relocation and I prefer working remotely.
+* 🌍  I'm open to relocation and I prefer working remotely.
 * 🖥️  See my portfolio at [https://lucashawthorne.github.io/Eportfolio/](http://lucashawthorne.github.io/Eportfolio/)
 * ✉️  You can contact me at [lucashawthorne16@gmail.com](mailto:lucashawthorne16@gmail.com)
 * 🧠  I'm currently learning Firebase, Next.js, and Typescript.
