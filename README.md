@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Motivated front-end developer with hands-on experience building responsive web
-
-applications using HTML, CSS, JavaScript, and React. I came from a retail and sales background, but I'm excited to cement myself in tech. 😎
+Motivated front-end developer with hands-on experience building responsive web applications using HTML, CSS, JavaScript, and React. I came from a retail and sales background, but I'm excited to cement myself in tech. 😎
 
 * 🌍  I'm based in Phoenix, Arizona, but I'm open to relocation and I prefer working remotely.
 * 🖥️  See my portfolio at [https://lucashawthorne.github.io/Eportfolio/](http://lucashawthorne.github.io/Eportfolio/)
