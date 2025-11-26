@@ -9,7 +9,7 @@ Motivated front-end developer with hands-on experience building responsive web a
 * 🌍  I'm open to relocation and I prefer working remotely.
 * 🖥️  See my portfolio at [lucashawthorne.dev](https://lucashawthorne.dev/)
 * ✉️  You can contact me at [lucashawthorne16@gmail.com](mailto:lucashawthorne16@gmail.com)
-* 🧠  I'm currently learning Firebase, Next.js, and Typescript.
+* 🧠  I'm currently mastering Next.js and Typescript.
 * 📝  Fun fact: I've been a magazine-published writer for over 10 years.
 
 <p align="left">
