@@ -7,7 +7,7 @@ Frontend Developer
 Motivated front-end developer with hands-on experience building responsive web applications using HTML, CSS, JavaScript, and React. I came from a retail and sales background, but I'm excited to cement myself in tech. 😎
 
 * 🌍  I'm open to relocation and I prefer working remotely.
-* 🖥️  See my portfolio at [lucashawthorne.dev/](https://lucashawthorne.dev/)
+* 🖥️  See my portfolio at [lucashawthorne.dev](https://lucashawthorne.dev/)
 * ✉️  You can contact me at [lucashawthorne16@gmail.com](mailto:lucashawthorne16@gmail.com)
 * 🧠  I'm currently learning Firebase, Next.js, and Typescript.
 * 📝  Fun fact: I've been a magazine-published writer for over 10 years.
