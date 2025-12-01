@@ -4,9 +4,7 @@ Hey there! 👋 My name is Lucas Hawthorne
 Frontend Developer
 ------------------
 
-Motivated front-end developer with hands-on experience building responsive web
-
-applications using Next.js, Tailwind CSS, and TypeScript. I came from a retail and sales background, but I'm excited to cement myself in tech. 😎
+Motivated front-end developer with hands-on experience building responsive web applications using Next.js, Tailwind CSS, and TypeScript. I came from a retail and sales background, but I'm excited to cement myself in tech. 😎
 
 * 🌍  I'm based in Phoenix, Arizona, but I'm open to relocation and I prefer working remotely.
 * 🖥️  See my portfolio at [http://lucashawthorne.dev/](http://lucashawthorne.dev/)
